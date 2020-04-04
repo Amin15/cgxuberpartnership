@@ -1,0 +1,26 @@
+# site settings
+title: CareGuide
+email: info@careguide.com
+baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author:
+street_address: 1100-119 Spadina Ave
+city: Toronto
+state: ON
+zip_code: M5V 2L1
+country: Canada
+phone: 855-874-8837
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+facebook_url: https://www.facebook.com/careguide
+instagram_url: https://www.instagram.com/careguide/
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
