@@ -97,10 +97,10 @@
                         <div class="search_wrap">
                             <form class="search_form" action="#">
                                 <div class="input_field">
-                                    <input type="text" placeholder="Search Jobs (i.e. keywords, location, etc)">
+                                    <input type="text" id="query" placeholder="Search Jobs (i.e. keywords, location, etc)">
                                 </div>
                                 <div class="search_btn">
-                                    <button class="boxed-btn4" type="submit" onclick="window.location.href = 'https://petsitter.com/pet-sitter-jobs?q=';">Search</button>
+                                    <button class="boxed-btn4" onclick="window.location.href = 'https://petsitter.com/pet-sitter-jobs?q='.append(#query);">Search</button>
                                 </div>
                             </form>
                         </div>
