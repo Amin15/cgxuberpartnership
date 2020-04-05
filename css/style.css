@@ -1295,16 +1295,12 @@ h3 {
 /* line 1, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_slider.scss */
 .slider_bg_1 {
   background-image: url(../img/uber3.jpg);
-  animation-delay: 1s;
-  animation-fill-mode: none;
 }
 
 
 /* line 4, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_slider.scss */
 .slider_bg_2 {
   background-image: url(../img/uber4.jpg);
-  animation-delay: 1s;
-  animation-fill-mode: forwards;
 }
 
 .slider_bg_3 {
