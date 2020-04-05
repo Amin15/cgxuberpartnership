@@ -79,7 +79,7 @@ button {
 /* line 40, ../../Arafath/CL/December/231. Travel-02/HTML/scss/theme-default.scss */
 h1, h2, h3, h4, h5 {
   font-family: "proxima-nova", sans-serif;
-  color: #001D38;
+  color: #FFFFFF;
 }
 
 /* line 44, ../../Arafath/CL/December/231. Travel-02/HTML/scss/theme-default.scss */
@@ -261,7 +261,7 @@ h3 {
   height: 100%;
   left: 0;
   top: 0;
-  background: #001D38;
+  background: #FFFFFF;
   opacity: .6;
   content: '';
   z-index: -1;
@@ -361,7 +361,7 @@ h3 {
 /* line 274, ../../Arafath/CL/December/231. Travel-02/HTML/scss/theme-default.scss */
 .owl-carousel:hover .owl-nav div:hover {
   color: #fff;
-  background: #001D38;
+  background: #FFFFFF;
   border: 1px solid transparent;
 }
 
@@ -661,7 +661,7 @@ h3 {
 .section_title h4 {
   font-size: 22px;
   font-weight: 500;
-  color: #001D38;
+  color: #FFFFFF;
   padding-bottom: 21px;
 }
 
@@ -865,7 +865,7 @@ h3 {
 
 /* line 28, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_header.scss */
 .header-area .main-header-area.details_nav {
-  background: #001D38;
+  background: #FFFFFF;
 }
 
 @media (max-width: 767px) {
@@ -1299,7 +1299,7 @@ h3 {
 
 /* line 4, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_slider.scss */
 .slider_bg_2 {
-  background-image: url(../img/uber4.jpg);
+  background-image: url(../img/uber1.jpg);
 }
 
 /* line 7, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_slider.scss */
@@ -1428,7 +1428,7 @@ h3 {
 /* line 98, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_slider.scss */
 .slider_area .owl-carousel .owl-nav div:hover {
   background: white;
-  color: #001D38;
+  color: #FFFFFF;
   border: none;
 }
 
