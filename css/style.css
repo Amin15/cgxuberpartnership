@@ -1295,16 +1295,18 @@ h3 {
 /* line 1, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_slider.scss */
 .slider_bg_1 {
   background-image: url(../img/uber3.jpg);
+  filter: blur(20px);
+  background-size: cover;
+  background-color: #4d4d4d;
+  animation: hd-quality 1s;
+  animation-delay: 3s;
+  animation-fill-mode: forwards;
 }
+
 
 /* line 4, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_slider.scss */
 .slider_bg_2 {
   background-image: url(../img/uber4.jpg);
-}
-
-/* line 7, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_slider.scss */
-.slider_bg_3 {
-  background-image: url(../img/banner/banner3.png);
 }
 
 /* line 10, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_slider.scss */
