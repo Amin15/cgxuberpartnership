@@ -1814,12 +1814,16 @@ h3 {
   color: #fff;
   text-transform: capitalize;
   margin-bottom: 40px;
+  float: center;
+
 }
 
 @media (max-width: 767px) {
   /* line 44, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_footer.scss */
   .footer .footer_top .footer_widget .footer_logo {
     margin-bottom: 20px;
+    float: center;
+
   }
 }
 
