@@ -994,7 +994,7 @@ h3 {
   font-weight: 400;
   display: inline-block;
   padding: 0px 0px 0px 0px;
-  font-family: "Rubik", sans-serif;
+  font-family: "proxima-nova", sans-serif;
   position: relative;
   text-transform: capitalize;
 }
@@ -1343,7 +1343,7 @@ h3 {
 
 /* line 38, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_slider.scss */
 .slider_area .single_slider .slider_text h3 {
-  font-family: "Nothing You Could Do", cursive;
+  font-family: "proxima-nova", cursive;
   font-size: 150px;
   text-transform: capitalize;
   font-weight: 400;
@@ -1676,7 +1676,7 @@ h3 {
   width: 50px;
   height: 50px;
   content: "\f100";
-  font-family: "Flaticon";
+  font-family: "proxima-nova";
   text-align: center;
   line-height: 50px;
   background: #1EC6B6;
@@ -1740,7 +1740,7 @@ h3 {
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
-  background: #f2f2f2;
+  background: #ffffff;
   position: relative;
   z-index: 0;
 }
@@ -1792,7 +1792,7 @@ h3 {
   color: #fff;
   text-transform: capitalize;
   margin-bottom: 45px;
-  font-family: "Rubik", sans-serif;
+  font-family: "proxima-nova", sans-serif;
 }
 
 @media (max-width: 767px) {
@@ -1886,7 +1886,7 @@ h3 {
 .footer .footer_top .footer_widget ul li a {
   color: #AAB1B7;
   font-weight: 400;
-  font-family: "Rubik", sans-serif;
+  font-family: "proxima-nova", sans-serif;
 }
 
 /* line 108, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_footer.scss */
@@ -1904,14 +1904,14 @@ h3 {
 .footer .footer_top .footer_widget .newsletter_form input {
   width: 100%;
   height: 50px;
-  background: #F5FBFF;
+  background: #FFFFFF;
   padding-left: 20px;
   font-size: 15px;
   color: #000;
   border: none;
   border: 1px solid #E8E8E8;
   border-radius: 30px;
-  font-family: "Rubik", sans-serif;
+  font-family: "proxima-nova", sans-serif;
   padding-right: 120px;
 }
 
@@ -1935,7 +1935,7 @@ h3 {
   border: none;
   font-size: 14px;
   color: #fff;
-  background: #FF4A52;
+  background: #FFFFFF;
   padding: 10px;
   padding: 0 22px;
   cursor: pointer;
@@ -1944,7 +1944,7 @@ h3 {
   right: 5px;
   font-size: 14px;
   font-weight: 500;
-  font-family: "Rubik", sans-serif;
+  font-family: "proxima-nova", sans-serif;
 }
 
 /* line 157, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_footer.scss */
@@ -1952,7 +1952,7 @@ h3 {
   font-size: 14px;
   color: #AAB1B7;
   line-height: 26px;
-  font-family: "Rubik", sans-serif;
+  font-family: "proxima-nova", sans-serif;
 }
 
 /* line 163, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_footer.scss */
@@ -2109,7 +2109,7 @@ h3 {
   margin-bottom: 0;
   line-height: 90px;
   text-transform: capitalize;
-  font-family: "Nothing You Could Do", cursive;
+  font-family: "proxima-nova", cursive;
 }
 
 @media (max-width: 767px) {
@@ -2273,7 +2273,7 @@ h3 {
   cursor: pointer;
   display: block;
   float: left;
-  font-family: "Rubik", sans-serif;
+  font-family: "proxima-nova", sans-serif;
   font-weight: normal;
   width: 100% !important;
   /* height: 42px; */
@@ -2311,7 +2311,7 @@ h3 {
   top: 3px;
   transition: all 0.15s ease-in-out;
   width: 5px;
-  font-family: fontawesome;
+  font-family: proxima-nova;
   color: #919191;
   font-size: 15px;
 }
@@ -2639,7 +2639,7 @@ h3 {
   content: '\f0d7 ';
   right: 21px;
   top: 5px;
-  font-family: 'fontawesome';
+  font-family: 'proxima-nova';
   color: #AAB1B7;
   font-size: 16px;
 }
@@ -2753,7 +2753,7 @@ h3 {
   font-size: 22px;
   color: #fff;
   font-weight: 400;
-  font-family: "Rubik", sans-serif;
+  font-family: "proxima-nova", sans-serif;
   -webkit-transition: 0.3s;
   -moz-transition: 0.3s;
   -o-transition: 0.3s;
@@ -2833,7 +2833,7 @@ h3 {
   font-size: 80px;
   line-height: 90px;
   color: #fff;
-  font-family: "Nothing You Could Do", cursive;
+  font-family: "proxima-nova", cursive;
   margin-bottom: 0;
 }
 
@@ -3033,7 +3033,7 @@ h3 {
   padding-left: 15px;
   color: #000;
   font-size: 16px;
-  font-family: "Rubik", sans-serif;
+  font-family: "proxima-nova", sans-serif;
   font-weight: 300;
 }
 
@@ -3041,7 +3041,7 @@ h3 {
 .newletter_area .mail_form .newsletter_field input::placeholder {
   color: #AAB1B7;
   font-size: 16px;
-  font-family: "Rubik", sans-serif;
+  font-family: "proxima-nova", sans-serif;
   font-weight: 300;
 }
 
@@ -3258,7 +3258,7 @@ h3 {
   content: '\f0d7 ';
   right: 21px;
   top: 5px;
-  font-family: 'fontawesome';
+  font-family: 'proxima-nova';
   color: #AAB1B7;
   font-size: 16px;
 }
@@ -3369,7 +3369,7 @@ h3 {
 
 /* line 16, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_video.scss */
 .video_area .video_wrap h3 {
-  font-family: "Nothing You Could Do", cursive;
+  font-family: "proxima-nova", cursive;
   font-weight: 400;
   font-size: 80px;
   line-height: 90px;
