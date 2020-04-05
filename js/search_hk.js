@@ -1,5 +1,6 @@
 function searchFunction2(){
-    var action_src = window.open("https://housekeeper.com/housekeeper-jobs?q=" + document.getElementsByName("query2")[0].value, "_blank");
+    var q2 = $('query2').val();
+    var action_src = "https://housekeeper.com/housekeeper-jobs?q=" + q2;
     var your_form = document.getElementById('search2');
-    your_form.action = action_src ;
+    your_form.action = window.open(action_src) ;
 }
