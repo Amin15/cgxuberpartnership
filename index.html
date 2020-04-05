@@ -67,7 +67,7 @@
                             <div class="text-center">
                                 <h2>We welcome Uber drivers</h2>
                                 <h3 style="margin-bottom:30px;">Earn $20/hr or more. No resume or previous work experience required.</h3>
-                                <img src="img/uber_logo.svg" style="height:20%; width:20%; display: inline-block; margin-right: 10px;">
+                                <img src="img/uber_logo.svg" style="height:20%; width:20%; display: inline-block; margin-right: 20px;">
                                 <img src="img/ps.svg" style="height:30%; width:30%; display: inline-block">
                             </div>
                         </div>
@@ -80,7 +80,7 @@
                         <div class="search_wrap">
                             <form class="search_form" action="#">
                                 <div class="input_field">
-                                    <input type="text" id="query" placeholder="Search Jobs (i.e. keywords, location, etc)">
+                                    <input type="text" name="query" id="query" placeholder="Search Jobs (i.e. keywords, location, etc)">
                                 </div>
                                 <div class="search_btn">
                                     <button class="boxed-btn4" onclick="window.location.href='https://petsitter.com/pet-sitter-jobs?q='+#query;">Search</button>
@@ -93,9 +93,6 @@
          </div>
 
 
-
-
-
                 </div>
             </div>
             <div class="single_slider  d-flex align-items-center slider_bg_2 overlay">
@@ -105,7 +102,7 @@
                             <div class="text-center">
                                 <h1>We welcome Uber drivers</h1>
                                 <h3 style="margin-bottom:30px;">Earn $20/hr or more. No resume or previous work experience required.</h3>
-                                <img src="img/uber_logo.svg" style="height:20%; width:20%; display: inline-block; margin-right: 10px;">
+                                <img src="img/uber_logo.svg" style="height:20%; width:20%; display: inline-block; margin-right: 20px;">
                                 <img src="img/hk.svg" style="height:30%; width:30%; display: inline-block">
                             </div>
                         </div>
@@ -116,12 +113,12 @@
                 <div class="row align-items-center">
                     <div class="col-lg-4 col-md-6">
                         <div class="search_wrap">
-                            <form class="search_form" action="#">
+                            <form id="search" class="search_form" onsubmit="search()">
                                 <div class="input_field">
-                                    <input type="text" id="query" placeholder="Search Jobs (i.e. keywords, location, etc)">
+                                    <input type="text" name="query" id="query" placeholder="Search Jobs (i.e. keywords, location, etc)">
                                 </div>
                                 <div class="search_btn">
-                                    <button class="boxed-btn4" onclick="window.location.href = 'https://housekeeper.com/housekeeping-jobs?q='.append(#query);">Search</button>
+                                    <button class="boxed-btn4" onsubmit="search()">Search</button>
                                 </div>
                             </form>
                         </div>
