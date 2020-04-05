@@ -1,13 +1,6 @@
 function searchFunction(){
-
-    var action_src = $("query").val();
-    var your_form = $('search').val();
-
-    var urlLink = "https://petsitter.com/pet-sitter-jobs?q=";
-    urlLink = urlLink + action_src;
-
-
-
-    your_form.action = urlLink;
-
+    var action_src = "https://petsitter.com/pet-sitter-jobs?q="
+    var q = document.getElementsByName("query")[0].value;
+    var your_form = document.getElementById('search');
+    your_form.action = window.open(action_src+q) ;
 }
