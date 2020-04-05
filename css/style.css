@@ -1782,7 +1782,7 @@ h3 {
 /* line 27, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_footer.scss */
 .footer .footer_top .footer_widget .links.double_links li {
   width: 50%;
-  float: left;
+  float: center;
 }
 
 /* line 33, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_footer.scss */
