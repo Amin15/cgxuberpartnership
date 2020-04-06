@@ -1524,7 +1524,6 @@ h3 {
 
 /* line 44, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_about.scss */
 .about_story .story_thumb .thumb img {
-  width: 100%;
 }
 
 /* line 2, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_counter.scss */
@@ -1575,7 +1574,6 @@ h3 {
 
 /* line 9, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_team.scss */
 .team_area .single_team .team_thumb img {
-  width: 100%;
   -webkit-transform: scale(1);
   -moz-transform: scale(1);
   -ms-transform: scale(1);
@@ -1622,7 +1620,6 @@ h3 {
 
 /* line 45, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_team.scss */
 .team_area .single_team:hover .team_thumb img {
-  width: 100%;
   -webkit-transform: scale(1.1);
   -moz-transform: scale(1.1);
   -ms-transform: scale(1.1);
@@ -1979,7 +1976,6 @@ h3 {
 
 /* line 171, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_footer.scss */
 .footer .footer_top .footer_widget .instagram_feed .single_insta img {
-  width: 100%;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   border-radius: 5px;
@@ -2741,7 +2737,6 @@ h3 {
 
 /* line 30, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_destination.scss */
 .popular_destination_area .single_destination .thumb img {
-  width: 100%;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   border-radius: 5px;
@@ -3110,7 +3105,6 @@ h3 {
 
 /* line 18, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_popular_place.scss */
 .popular_places_area .single_place .thumb img {
-  width: 100%;
 }
 
 /* line 21, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_popular_place.scss */
@@ -3469,7 +3463,6 @@ h3 {
 
 /* line 88, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_video.scss */
 .recent_trip_area .single_trip .thumb img {
-  width: 100%;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   border-radius: 5px;
